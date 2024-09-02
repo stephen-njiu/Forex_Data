@@ -1,0 +1,1 @@
+## <i>Major Forex Pairs Dataset with 100, 000 rows for 15, 30, and 60 minutes. Bitcoin/USD and Ethereum/USD included. </i>
